@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33664" started-at="2019-12-06T09:21:09Z" finished-at="2019-12-06T09:21:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33664" started-at="2019-12-06T09:21:09Z" finished-at="2019-12-06T09:21:43Z">
+      <class name="com.Qa.Xyphias.PageObjectModel.HomePageTest">
+        <test-method status="PASS" signature="InitializeHomePage()[pri:0, instance:com.Qa.Xyphias.PageObjectModel.HomePageTest@7cd62f43]" name="InitializeHomePage" is-config="true" duration-ms="33101" started-at="2019-12-06T09:21:09Z" finished-at="2019-12-06T09:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeHomePage -->
+        <test-method status="PASS" signature="VerifyHomePageLogoTest()[pri:0, instance:com.Qa.Xyphias.PageObjectModel.HomePageTest@7cd62f43]" name="VerifyHomePageLogoTest" duration-ms="242" started-at="2019-12-06T09:21:42Z" finished-at="2019-12-06T09:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageLogoTest -->
+        <test-method status="PASS" signature="VerifyHomePageToContactsPageLinkTest()[pri:0, instance:com.Qa.Xyphias.PageObjectModel.HomePageTest@7cd62f43]" name="VerifyHomePageToContactsPageLinkTest" duration-ms="270" started-at="2019-12-06T09:21:42Z" finished-at="2019-12-06T09:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageToContactsPageLinkTest -->
+      </class> <!-- com.Qa.Xyphias.PageObjectModel.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
